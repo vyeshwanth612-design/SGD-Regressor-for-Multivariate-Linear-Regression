@@ -14,7 +14,7 @@ To write a program to predict the price of the house and number of occupants in 
 4. 1. Predict cluster labels and display the cluster centers and scatter plot.
 
 ## Program:
-```
+```py
 
 import numpy as np
 import matplotlib.pyplot as plt
